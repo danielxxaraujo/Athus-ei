@@ -1,0 +1,22 @@
+root{
+    display: block;
+}
+
+body{
+    font-family: "Verdana";
+    font-size: 13pt;
+    /** background-image: url("imagens/login.png"); **/
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+#senha{
+    background-image: url("imagens/senha_fundo.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
